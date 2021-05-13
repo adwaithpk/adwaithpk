@@ -11,6 +11,10 @@
 <a href="https://facebook.com/adwaithcet">
   <img align="left" alt="Adwaith's facebook" width="22px" src="assets/facebook.png" />
 </a>
+</a>
+<a href="https://twitter.com/@_a_d_w_a_i_t_h_">
+  <img align="left" alt="Adwaith's twitter" width="22px" src="assets/twitter.svg" />
+</a>
 <br>
 
 ## GITHUB STATS
