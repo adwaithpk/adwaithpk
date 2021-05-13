@@ -6,6 +6,9 @@
 <a href="https://instagram.com/_adwaith_pk_">
   <img align="left" alt="Adwaith's Instagram" width="22px" src="assets/instagram.svg" />
 </a>
+<a href="https://facebook.com/adwaithcet">
+  <img align="left" alt="Adwaith's facebook" width="22px" src="assets/facebook.png" />
+</a>
 <br>
 
 ## GITHUB STATS
