@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=I'm+a+student+%40+College+Of+Engineering%2C+Trivandrum%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=18&multiline=true&lines=I'm+a+student+at+College+Of+;Engineering%2C+Trivandrum%F0%9F%92%AA)](https://git.io/typing-svg)
 
  <a href="https://wa.me/+917034916410">
   <img align="left" alt="Adwaith's Whatsapp" width="22px" src="assets/whatsapp.svg" />
