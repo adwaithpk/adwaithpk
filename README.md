@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hai  👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=18&multiline=true&lines=I'm+a+student+at+College+Of+;Engineering%2C+Trivandrum%F0%9F%92%AA)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
   <img align="left" alt="Adwaith's Instagram" width="22px" src="assets/instagram.svg" />
 </a>
 <a href="https://facebook.com/adwaithcet">
-  <img align="left" alt="Adwaith's facebook" width="22px" src="assets/facebook.png" />
+  <img align="left" alt="Adwaith's facebook" width="22px" src="assets/facebook.svg" />
 </a>
 </a>
 <a href="https://twitter.com/@_a_d_w_a_i_t_h_">
