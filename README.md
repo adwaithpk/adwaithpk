@@ -1,6 +1,6 @@
 # Hai  👋🏻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=20&multiline=true&lines=I'm+a+student+at+National+Institute+of+;Technology%2C+Calicut%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=18&multiline=true&lines=I'm+a+student+at+National+Institute+of+;Technology%2C+Calicut%F0%9F%92%AA)](https://git.io/typing-svg)
 
 ## *Connect me* 👇🏼
 
