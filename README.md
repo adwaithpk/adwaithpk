@@ -7,6 +7,9 @@
  <a href="https://wa.me/+917034916410">
   <img align="left" alt="Adwaith's Whatsapp" width="22px" src="assets/whatsapp.svg" />
 </a>
+<a href="https://www.linkedin.com/in/adwaithpk">
+  <img align="left" alt="Adwaith's Linkedin" width="22px" src="assets/linkedin.svg" />
+</a>
 <a href="https://instagram.com/_adwaith_pk_">
   <img align="left" alt="Adwaith's Instagram" width="22px" src="assets/instagram.svg" />
 </a>
